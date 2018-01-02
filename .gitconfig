@@ -1,6 +1,6 @@
 [user]
-	name = Lucas Pélos
-	email = lucas.pelos@gmail.com
+	name = Mateus Matos Marquizeti
+	email = mateusmarquizeti@gmail.com
 [alias]
 	ci = commit
 	co = checkout
@@ -12,7 +12,7 @@
 [credential]
 	helper = cache
 [core]
-	excludesfile = /home/lucas/.gitignore
+	excludesfile = /home/mateus/.gitignore
 [push]
 	default = current
 [color]

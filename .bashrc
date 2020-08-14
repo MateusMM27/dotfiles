@@ -128,6 +128,8 @@ export PATH="$ANDROID_HOME/tools/:$PATH"                    # android-sdk
 export PATH="$STANDALONE_PATH/android-studio/bin/:$PATH"    # android-studio
 export PATH="$STANDALONE_PATH/genymotion/:$PATH"            # genymotion
 export PATH="/usr/local/heroku/bin:$PATH"                   # Heroku Toolbelt
+export PATH="$PATH:`yarn global bin`"                       # Yarn global bin
+
 
 # rbenv
 # eval "$(rbenv init -)"
